@@ -1,0 +1,15 @@
+[
+  {
+    "@context": {
+      "@vocab": "http://schema.org/",
+      "doap": "http://usefulinc.com/ns/doap#"
+    },
+    "@id": "ab382c98-9db7-11e7-bd47-8cdcd4d63b92",
+    "availableFrom": {
+      "@id": "345640a7-0c76-4f4c-81c2-501a898762da",
+      "description": "yoh@hopa:/tmp/tutorial_output"
+    },
+    "dcterms:conformsTo": "http://docs.datalad.org/metadata.html#v0-1",
+    "type": "Dataset"
+  }
+]
